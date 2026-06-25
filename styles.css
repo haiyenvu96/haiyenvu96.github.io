@@ -237,6 +237,12 @@ h3 {
   align-items: start;
 }
 
+.contact-layout {
+  grid-template-columns: minmax(18rem, 38rem) max-content;
+  justify-content: center;
+  column-gap: clamp(1.5rem, 4vw, 4rem);
+}
+
 .intro-copy {
   max-width: 46rem;
   font-size: 1.2rem;
@@ -470,8 +476,12 @@ h3 {
 }
 
 .contact-copy {
-  max-width: 38rem;
+  max-width: none;
   color: rgba(244, 251, 252, 0.82);
+}
+
+.contact-layout > :last-child {
+  justify-self: start;
 }
 
 .section-dark .button-secondary {
