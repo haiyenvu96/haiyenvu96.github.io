@@ -291,7 +291,7 @@ const profile = {
         variant: "secondary",
       },
     ],
-    note: "For publication links, project demos, or a Google Scholar profile, extend the papers and contact actions in this file.",
+    // note: "For publication links, project demos, or a Google Scholar profile, extend the papers and contact actions in this file.",
   },
 };
 
