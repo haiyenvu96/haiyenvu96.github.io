@@ -115,7 +115,9 @@ const profile = {
     {
       date: "June 11-12, 2025",
       segments: [
-        { text: "I gave an oral presentation at the Seminaire de l'equipe Contraintes et Apprentissage in Orleans, France." },
+        { text: "I gave an oral presentation at the "},
+        { text: "Seminaire de l'equipe Contraintes et Apprentissage", href: "https://www.univ-orleans.fr/lifo/actualites/S%C3%A9minaire%20CA%202025-1163382" },
+        { text: " in Orleans, France." },
       ],
     },
     {
@@ -203,7 +205,9 @@ const profile = {
     {
       date: "June 10-11, 2024",
       segments: [
-        { text: "I gave a presentation at the Seminaire de l'equipe Contraintes et Apprentissage in Orleans, France." },
+        { text: "I gave a presentation at the "},
+        { text: "Seminaire de l'equipe Contraintes et Apprentissage", href: "https://www.univ-orleans.fr/lifo/sites/default/files/2025-06/ProgrammeJouneesCA-2024.pdf" },
+        { text: " in Orleans, France." },
       ],
     },
     {
