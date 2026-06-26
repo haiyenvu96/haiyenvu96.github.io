@@ -90,7 +90,7 @@ const profile = {
       date: "June 18, 2026",
       segments: [
         { text: "I gave an oral presentation " },
-        { text: "Positive-unlabeled learning with knowledge integration. Application to mineral prospectivity mapping", href: "assets/Workshop_program.pdf" },
+        { text: "Positive-unlabeled learning with knowledge integration. Application to mineral prospectivity mapping"},
         { text: " at Journee des Doctorants MIPTIS 2026", href: "https://miptis2026.sciencesconf.org/program?lang=fr" },
         { text: " in Orleans, France. "  }, 
       ],
@@ -108,8 +108,8 @@ const profile = {
       date: "October 5, 2025",
       segments: [
         { text: "I took part in "},
-        { text: "La Fete de la sciences", href: "https://www.univ-orleans.fr/fr/univ/agenda-actualites/fete-de-la-science-2025" },
-        { text: " at CNRS in Orleans, France." },
+        { text: "La Fête de la science", href: "https://www.univ-orleans.fr/fr/univ/agenda-actualites/fete-de-la-science-2025" },
+        { text: " to introduce children and teenagers (ages 4 to 18) to computer science, simulation, and artificial intelligence through games in Orleans, France." },
       ],
     },
     {
@@ -174,8 +174,8 @@ const profile = {
       date: "October 6, 2024",
       segments: [
         { text: "I took part in "},
-        { text: "La Fete de la sciences", href: "https://www.univ-orleans.fr/fr/univ/agenda-actualites/fete-de-la-science-2024" },
-        { text: " at CNRS in Orleans, France." },
+        { text: "La Fête de la science", href: "https://www.univ-orleans.fr/fr/univ/agenda-actualites/fete-de-la-science-2024" },
+        { text: " to introduce children and teenagers (ages 4 to 18) to computer science, simulation, and artificial intelligence through games at CNRS in Orleans, France." },
       ],
     },
     {
