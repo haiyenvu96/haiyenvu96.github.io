@@ -64,7 +64,7 @@ const profile = {
       authors: "Thi Hai Yen VU, Vincent NGUYEN, Christel VRAIN, Hugo BREUILLARD, and Thi Bich Hanh DAO",
       venue: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases - ECML PKDD 2026",
       year: "2026",
-      image: "assets/ECML2026.png",
+      image: "assets/ECML2026(1).png",
       imageAlt: "Preview image for Positive-Unlabeled Learning with Knowledge-Structured Data",
       summary:
         "Positive-Unlabeled (PU) learning focuses on scenarios whereonly positive and unlabeled examples are available and has become a cru-cial area in machine learning. However, its application to data enrichedwith structured or symbolic knowledge remains unstudied. Existing PUlearning methods often rely on the assumption of irreducibility betweennegative and positive distributions, but this assumption has not beenstudied in settings where the data is governed by logical rules or relationalconstraints. In this work, we formalize PU learning for knowledge-drivendata and introduce a novel approach that leverages a neuro-symbolicframework to address PU learning problem in such data settings. Wefurther propose NeuralAdjust, a method that uses neural networks todynamically reweight logical rules. This helps mitigate violations of theirreducibility condition induced by relational conflicts. Our experimen-tal results demonstrate robust performance across diverse datasets andknowledge structures, surpassing previous state-of-the-art graph-basedmethods for PU learning.",
