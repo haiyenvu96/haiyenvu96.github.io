@@ -113,6 +113,18 @@ const profile = {
       ],
     },
     {
+      date: "September 25, 2025",
+      segments: [
+        { text: 'I gave an oral presentation, "Graph-based approaches in MPM," at BRGM in Orléans, France.' },
+      ],
+    },
+    {
+      date: "July 20, 2025",
+      segments: [
+        { text: 'I gave an oral presentation at the "Workshop Fusion des données" at BRGM in Orléans, France.' },
+      ],
+    },
+    {
       date: "June 11-12, 2025",
       segments: [
         { text: "I gave an oral presentation at the "},
@@ -237,7 +249,7 @@ const profile = {
     {
       label: "Doctoral research",
       title: "PhD Candidate in Machine Learning at Universite d'Orleans / BRGM",
-      text: "Since October 2023, I have developed knowledge-guided machine learning methods for mineral potential mapping, including semi/self-supervised learning, clustering, graph models, neural networks, and neuro-symbolic positive-unlabeled learning.",
+      text: "Since October 2023, I have developed knowledge-guided machine learning methods for mineral potential mapping, including semi/self-supervised learning, clustering, graph models, neural networks, and neuro-symbolic positive-unlabeled learning. I also process heterogeneous GIS datasets with multiple layers at varying spatial resolutions.",
     },
     {
       label: "Open science",
