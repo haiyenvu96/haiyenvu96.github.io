@@ -87,6 +87,18 @@ const profile = {
   // newsHeading: "Recent updates, awards, presentations, and teaching activity",
   news: [
     {
+      date: "September 25, 2026",
+      segments: [
+        { text: 'I gave an oral presentation, "Graph-based approaches in MPM," at BRGM in Orléans, France.' },
+      ],
+    },
+    {
+      date: "July 20, 2026",
+      segments: [
+        { text: 'I gave an oral presentation at the "Workshop Fusion des données" at BRGM in Orléans, France.' },
+      ],
+    },
+    {
       date: "June 18, 2026",
       segments: [
         { text: "I gave an oral presentation " },
@@ -110,18 +122,6 @@ const profile = {
         { text: "I took part in "},
         { text: "La Fête de la science", href: "https://www.univ-orleans.fr/fr/univ/agenda-actualites/fete-de-la-science-2025" },
         { text: " to introduce children and teenagers (ages 4 to 18) to computer science, simulation, and artificial intelligence through games in Orleans, France." },
-      ],
-    },
-    {
-      date: "September 25, 2025",
-      segments: [
-        { text: 'I gave an oral presentation, "Graph-based approaches in MPM," at BRGM in Orléans, France.' },
-      ],
-    },
-    {
-      date: "July 20, 2025",
-      segments: [
-        { text: 'I gave an oral presentation at the "Workshop Fusion des données" at BRGM in Orléans, France.' },
       ],
     },
     {
