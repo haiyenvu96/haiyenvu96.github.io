@@ -93,6 +93,14 @@ const profile = {
       ],
     },
     {
+      date: "September 7-11, 2026",
+      segments: [
+        { text: "I gave both oral and poster presentations at " },
+        { text: "ECML PKDD 2026", href: "https://ecmlpkdd.org/2026/" },
+        { text: " in Naples, Italy." },
+      ],
+    },
+    {
       date: "July 20, 2026",
       segments: [
         { text: 'I gave an oral presentation at the "Workshop Fusion des données" at BRGM in Orléans, France.' },
