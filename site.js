@@ -96,7 +96,7 @@ const profile = {
       date: "September 7-11, 2026",
       segments: [
         { text: "I gave both oral and poster presentations at " },
-        { text: "ECML PKDD 2026", href: "https://ecmlpkdd.org/2026/" },
+        { text: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2026)", href: "https://ecmlpkdd.org/2026/" },
         { text: " in Naples, Italy." },
       ],
     },
